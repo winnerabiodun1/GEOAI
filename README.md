@@ -1,0 +1,2 @@
+# GEOAI
+Geo AI practice
